@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Nathan
+# Hi there 👋, my name is Nathan
 
 ![Full Stack Engineer](https://previews.123rf.com/images/elenabsl/elenabsl1509/elenabsl150900055/45073782-web-and-software-developer-banner-with-seacrh-bar-and-thin-line-objects-and-work-tools-on-a-desk.jpg)
 
-## Early career full stack web developer looking to translate my customer service skills into creating beautiful web design for users. I am passion about solving interesting problems and transforming complication into simplicity while learning new technologies. 
+#### Early career full stack web developer looking to translate my customer service skills into creating beautiful web design for users. I am passion about solving interesting problems and transforming complication into simplicity while learning new technologies. 
 
 ### Connect with me:
 
