@@ -13,8 +13,6 @@
 <br/>
 <br/>
 
-Early career full stack web developer looking to translate my customer service skills into creating beautiful web design for users. I am passion about solving interesting problems and transforming complication into simplicity while learning new technologies. 
-
 [![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=NathanNNguyen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/NathanNNguyen/)
 
 **Languages and Tools:**  
