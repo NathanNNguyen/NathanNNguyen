@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Nathan Nguyen!](https://nate-nguyen.com)
+# Hi there, I'm [Nathan Nguyen](https://nate-nguyen.com)! 👋
 
 ![Full Stack Engineer](https://previews.123rf.com/images/elenabsl/elenabsl1509/elenabsl150900055/45073782-web-and-software-developer-banner-with-seacrh-bar-and-thin-line-objects-and-work-tools-on-a-desk.jpg)
 
@@ -12,11 +12,11 @@
   <img align="left" alt="Nathan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
+<br>
+
 Early career full stack web developer looking to translate my customer service skills into creating beautiful web design for users. I am passion about solving interesting problems and transforming complication into simplicity while learning new technologies. 
 
-[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=NathanNNguyen)](https://github.com/NathanNNguyen/)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanNNguyen&theme=light&hide_langs_below=1" />
+[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=NathanNNguyen&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/NathanNNguyen/)
 
 **Languages and Tools:**  
 
