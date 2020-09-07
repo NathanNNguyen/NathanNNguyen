@@ -1,7 +1,5 @@
 # Hi there, I'm [Nathan Nguyen](https://nate-nguyen.com)! 👋
 
-![Full Stack Engineer](https://previews.123rf.com/images/elenabsl/elenabsl1509/elenabsl150900055/45073782-web-and-software-developer-banner-with-seacrh-bar-and-thin-line-objects-and-work-tools-on-a-desk.jpg)
-
 <a href="https://www.linkedin.com/in/nathannnguyen/">
   <img align="left" alt="Nathan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,7 +10,8 @@
   <img align="left" alt="Nathan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
-<br>
+<br/>
+<br/>
 
 Early career full stack web developer looking to translate my customer service skills into creating beautiful web design for users. I am passion about solving interesting problems and transforming complication into simplicity while learning new technologies. 
 
