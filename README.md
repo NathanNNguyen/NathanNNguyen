@@ -1,5 +1,7 @@
 # Hi there, I'm [Nathan Nguyen](https://nate-nguyen.com)! 👋
 
+I enjoy writing code, especially code that can be easily understood by other developers. I love to keep learning, challenging myself and do things that matters to me the most. Technology is changing everyday, it's just the matter of fact how we can adapt to it.
+
 <a href="https://www.linkedin.com/in/nathannnguyen/">
   <img align="left" alt="Nathan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
